@@ -1,0 +1,1 @@
+A Student Grade Tracker using Java Swing and advanced Java manages student data, calculates grades, and generates reports. Features include a user-friendly interface, database integration, and real-time grade updates.
